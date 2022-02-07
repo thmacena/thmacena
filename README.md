@@ -3,7 +3,7 @@
   <a href="https://github.com/thmacena">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thmacena&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmacena&layout=compact&langs_count=7&theme=great-gatsby"/>
-    <img align="right" alt="Macena-Vader" src="https://i.pinimg.com/originals/30/24/a3/3024a38fa366e7ac5de7c6af7b6361a3.gif"</img> 
+    <img align="top-right" alt="Macena-Vader" src="https://i.pinimg.com/originals/30/24/a3/3024a38fa366e7ac5de7c6af7b6361a3.gif"</img> 
 </div>
   
  
