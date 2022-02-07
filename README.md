@@ -8,16 +8,15 @@
   ##
  
 <div> 
-  <h3>Linguagens</h3>
+  
     <img align="center" alt="Macena-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
     <img align="center" alt="Macena-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
     <img align="center" alt="Macena-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">  
-  <h3>Estudando</h3>
     <img align="center" alt="Macena-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
     <img align="center" alt="Macena-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
     <img align="center" alt="Macena-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
     <img align="center" alt="Macena-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-     <img align="right" alt="Macena-Vader" src="https://c.tenor.com/QFUWnfRIGPEAAAAM/darth-vader-star-wars.gif"</img> 
+    <img align="right" alt="Macena-Vader" src="https://c.tenor.com/QFUWnfRIGPEAAAAM/darth-vader-star-wars.gif"</img> 
  <div>
   
  ##
