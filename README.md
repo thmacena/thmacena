@@ -9,6 +9,7 @@
  
  
 <div style="display: inline_block"><br>
+  <h2>Tecnologias que uso e estudo</h2>
   
   <img align="center" alt="Macena-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Macena-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
@@ -20,9 +21,10 @@
   
  </div>
   
-  ##
+  
   
   <div style="display: inline_block"><br>
+    <h2>Prototipagem</h2>
     <img align="center" alt="Macena-Ps" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
     <img align="center" alt="Macena-figma" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Macena-Ai" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
