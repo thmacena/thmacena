@@ -1,5 +1,5 @@
 ## Hello-World! Me chamo Tiago Henrique Macena e atualmente sou voltado para o desenvolvimento front-end!
-<div align="center">
+<div align="right">
   <a href="https://github.com/thmacena">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thmacena&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmacena&layout=compact&langs_count=7&theme=great-gatsby"/>
