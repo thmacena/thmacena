@@ -18,6 +18,16 @@
   <img align="center" alt="Macena-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Macena-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   
+ </div>
+  
+  ##
+  
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Macena-Ps" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+    <img align="center" alt="Macena-figma" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" alt="Macena-Ai" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
+    <img align="center" alt="Macena-xd" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg">
+  </div>
   
  ##
   
